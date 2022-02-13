@@ -1,0 +1,142 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/*h3{
+	
+	padding-left: 0px;
+	
+}*/
+body{
+	background-color: #EEECC7;
+}
+
+
+li{
+	font-size: 20px;
+}
+	
+.z{
+	/*background-color:dimgray ;*/
+	background-color: #FF5733;
+	height: 25px;
+	padding-left: 200px;
+}
+.header{
+	/*background-color: #2B2A2A;*/
+	background-color: #FFC300;
+	height: 120px;
+	/*font-style: italic;*/
+	/*padding: 20px;*/
+	padding-left: 200px;
+	/*padding-top: 30px;*/
+	position:sticky;
+}
+#logo{
+	padding-top: 10px;
+	width: 30%;
+}
+.h{
+	/*background-color: red;*/
+	padding-top: 15px;
+	margin-top: -70px;
+	/*float: right;*/
+	padding-right: 80px;
+	/*padding-bottom: 160px;*/
+}
+.b{
+	margin-top: 50px;
+	padding-top: 15px;
+	padding-left: 295px;
+	/*background-color: #2B2A2A;*/
+	background-color:#FFC300;
+}
+.sectiona{
+	/*background-color: lightpink;*/
+	height: 400px;
+	/*margin-left: 150px;*/
+	/*margin-right: 150px;*/
+}
+.sectionb{
+	/*padding-top: 10px;*/
+	width: 100%;
+	height: 470px;
+}
+.left{
+     /*background-color: lightgrey;*/
+     width: 20%;
+     margin-top: 100px;
+     padding-left: 130px;
+}
+.right{
+	width: 80%;
+	height: 600px;
+	float: right;
+	margin-top: -290px;
+
+	/*margin-top: 20px;*/
+	/*padding-left: 200px;*/
+	/*margin-right: 80px;*/
+	/*background-color: gray ;*/
+	/*height: 650px;*/
+	/*padding-left: 250px;*/
+}
+.bakarkhani{
+	padding-top: 40px;
+	padding-left: 430px;
+}
+.nankhatai{
+	padding-left: 750px;
+	margin-top: -225px;
+}
+.cakerusk{
+	padding-left: 430px;
+	margin-top:40px;
+}
+.frenchhearts{
+	padding-left: 750px;
+	margin-top: -260px;
+}
+.cakes{
+	margin-top: -500px;
+	/*background-color: red;*/
+	width: 24%;
+	margin-left: 100px;
+	margin-top: -490px;
+}
+.biscuits{
+	/*background-color: hotpink;*/
+	width: 24%;
+	margin-left: 100px;
+	/*margin-top: -40px;*/
+
+}
+.footera{
+	/*background-color: dimgray;*/
+	/*background-color: #2B2A2A;*/
+	background-color: #FFC300;
+	height: 250px;
+	/*height: 100%;*/
+	width: 100%;
+	/*position: relative;*/
+}
+.x{
+
+	margin-top: 80px;
+	margin-right: 900px;
+	padding-left: 100px;
+	padding-top: 40px;
+}
+.c{
+	
+	padding-left: 100px;
+	margin-left: 450px;
+	margin-top: -185px;
+}
+.v{
+	padding-left: 100px;
+	margin-left: 850px;
+	margin-top: -145px;	
+
+}

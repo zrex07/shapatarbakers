@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #EEECC7;
+}	
+fieldset{
+	width: 57%; 
+	height: 570px;
+	padding-left:50px;
+	margin-left: 20px;
+}
+input{
+	width: 550px;
+}		
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;					/*for removing arrows from number input box*/
+  margin: 0;
+}
+textarea{
+	width: 550px;
+	height: 150px;
+}
+.header{
+	margin-top: 10px;
+	height: 40px;
+	background-color: #FFC300;
+	padding-top: 25px;
+}
+.section{
+	height: 700px;
+}
+.a{
+	/*background-color: pink;*/
+	width: 80%;
+}
+.b{
+	/*background-color: gray;*/
+	width: 20%;
+	float: right;
+	margin-top: -550px;
+}
+.footer{
+	height: 100px;
+	background-color: #FFC300;
+	padding-left: 80px;
+	padding-top: 40px;
+}
